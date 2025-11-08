@@ -142,7 +142,7 @@ export default function App() {
               <h5 className="font-semibold">Project One</h5>
               <p className="mt-2 text-sm text-gray-600">A short description of a web project.</p>
               <div className="mt-3 flex gap-2">
-                <a href={socialLinks.github} className="text-sm underline">Source</a>
+                <a href="https://tailwindcss03.vercel.app" className="text-sm underline">Source</a>
               </div>
             </div>
             <div className="p-4 rounded-lg bg-white shadow">
