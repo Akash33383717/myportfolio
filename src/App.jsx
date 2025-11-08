@@ -101,7 +101,7 @@ export default function App() {
               )}
 
               <a
-                href="/example_cv.pdf"
+                href="/example_cv.pdf.htm"
                 download
                 className="px-4 py-2 rounded-md border border-gray-300 text-gray-800 hover:bg-gray-100 transition"
               >
